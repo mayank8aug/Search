@@ -1,0 +1,20 @@
+.search-item {
+    padding: 20px;
+    background: #fff;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 3px #ccc;
+}
+
+.item-tag {
+    flex-basis: 15px;
+    padding: 12px 15px;
+    border-radius: 20px;
+    background: #f7ebcb;
+    font-weight: 700;
+}
+
+.tag-text {
+    font-weight: 700;
+    color: #295278;
+}

@@ -1,0 +1,21 @@
+.tabs-header {
+    border-bottom: 1px solid #ddd;
+}
+
+.tabs-head {
+    padding: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.tabs-head.active {
+    color: #ff0000;
+    border-bottom: 2px solid #ff0000;
+}
+
+.tabs-content {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 10px;
+    padding: 10px;
+}
