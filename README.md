@@ -1,6 +1,6 @@
 # Search
 
-Open terminal, navigated to the project folder and execute below commands
+Open terminal, navigate to the project folder and execute below commands
 
 1. npm install
 
